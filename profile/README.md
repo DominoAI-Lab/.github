@@ -1,4 +1,4 @@
-# DominalAI Lab @ Michigan State University
+# DominoAI Lab @ Michigan State University
  
 We are a research lab in the Department of Computer Science and Engineering at Michigan State University, led by [Dr. Zijun Cui](https://zijunjkl.github.io/).
  
