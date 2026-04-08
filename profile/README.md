@@ -7,8 +7,6 @@
 
 We are a research lab in the Department of Computer Science and Engineering at Michigan State University, led by [Dr. Zijun Cui](https://zijunjkl.github.io/).
  
-Our research spans **knowledge-augmented deep learning**, **probabilistic graphical models**, **computer vision**, and **AI for health**.
- 
 🌐 [Lab Website](https://zijunjkl.github.io/lab.html)
  
 ### Research Areas
