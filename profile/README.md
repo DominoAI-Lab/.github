@@ -9,8 +9,7 @@ We are a research lab in the Department of Computer Science and Engineering at M
  
 Our research spans **knowledge-augmented deep learning**, **probabilistic graphical models**, **computer vision**, and **AI for health**.
  
-📧 [cuizijun@msu.edu](mailto:cuizijun@msu.edu) · 🌐 [Lab Website](https://zijunjkl.github.io/lab.html) · 🐦 [Twitter](https://twitter.com/zijun_cui) · 📖 [Google Scholar](https://scholar.google.com/citations?hl=en&user=hxkHMJIAAAAJ)
-
+🌐 [Lab Website](https://zijunjkl.github.io/lab.html)
  
 ### Research Areas
  
