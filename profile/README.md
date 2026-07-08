@@ -22,6 +22,7 @@ We are a research lab in the Department of Computer Science and Engineering at M
  
 | Paper | Venue |
 |-------|-------|
+| [SiPhy: Single-Image Physical Property Reasoning](https://github.com/DominoAI-Lab/SiPhy-ECCV-2026) | ECCV 2026 |
 | [PAD-Hand: Physics-Aware Diffusion for Hand Motion Recovery](https://elkhanzada.github.io/pad-hand/) | CVPR 2026 |
 | [Bayesian Network Structure Discovery Using Large Language Models](https://github.com/sherryzyh/llmbn) | TMLR 2026 |
 
